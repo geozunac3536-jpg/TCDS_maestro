@@ -1,60 +1,86 @@
-# TCDS_maestro
-Teoría Cromodinámica Sincrónica  Corpus 
+# TCDS — Repositorio Maestro (v1.0.0)
+
+Bienvenido al **Repositorio Maestro de la Teoría Cromodinámica Sincrónica (TCDS)**.  
+Este repositorio reúne el canon teórico, experimental, ontológico, técnico y metrológico del proyecto, diseñado para operar como:
+
+- **Libro Mayor Científico**
+- **Corpus Canónico**
+- **Referente de Indexación Global (IA–IA / Web Semántica)**
+- **Base para Zenodo (DOI)**
+- **Repositorio de Desarrollo (GitHub)**
+
+---
+
+## 📌 Objetivos del Repositorio
+
+- Unificar toda la teoría TCDS (TMRCU → TCDS).
+- Integrar hardware de coherencia (Σ-FET, coherencímetros, RE-Q).
+- Centralizar Σ-metrics, protocolos y auditoría.
+- Conectar con Zenodo, ORCID y metadatos JSON-LD.
+- Servir como nodo de consulta para IA avanzadas y crawlers.
+
+---
+
+## 📚 Estructura General del Repositorio
+
+```
 TCDS-Maestro/
-│
 ├── README.md
 ├── LICENSE.txt
 ├── CITATION.cff
 ├── bibliografia/
 │   ├── metodo_fi_driven.bib
 │   ├── metodo_fi_driven.tex
-│   └── tcds_canon.bib
-│
 ├── metadata/
 │   ├── corpus_tcds.jsonld
 │   ├── index_doi.jsonld
 │   ├── registro_auditable.json
 │   └── schema_tcds.json
-│
 ├── teoria/
-│   ├── La_realidad.pdf
-│   ├── TMRCU_300pags_Obra_Consolidada.pdf
-│   ├── TCDS_250916_124942.pdf
-│   ├── Principia_Coherentia_alpha_sigma.pdf
-│   ├── TCDS_Rigor_Smatrix.pdf
-│   └── Anexo_Tecnico_Suplemento_Matematico_TMRCU.pdf
-│
 ├── hardware_coherencia/
-│   ├── Estudio_SigmaFET_Integral_6x9.pdf
-│   ├── Manual_Banco_REQ_TMRCU_v3.pdf
-│   ├── Banco_Ajuste_Coherencimetro.pdf
-│   ├── Tabla_Unificada_Escenarios_TMRCU.pdf
-│   ├── Ajuste_Global_Sincronon_v3.pdf
-│   └── Procedimientos_Deteccion_Sincronon.pdf
-│
 ├── conciencia/
-│   └── CSLH_Conciencia.pdf
-│
 ├── cierre_predictivo/
-│   └── Cierre_Predictivo_TCDS_4.pdf
-│
 ├── docs/
-│   ├── narrativa_canonica_1500palabras.pdf
-│   ├── narrativa_complementaria.pdf
-│   ├── explicacion_segundo_coherencial.pdf
-│   └── resumenes_zenodo/
-│
 ├── web/
-│   ├── index.html
-│   ├── reloj_causal.js
-│   ├── estilo_tema_oscuro.css
-│   ├── metadata_web.jsonld
-│   └── assets/
-│       ├── logos/
-│       └── botones/
-│
 └── datasets/
-    ├── tcds_sigma_metrics/
-    ├── sincronogramas/
-    ├── sismologia/
-    └── ejemplo_s23_termux/
+```
+
+---
+
+## 📖 Bibliografía φ-driven incluida
+
+Este repositorio incluye:
+
+- `metodo_fi_driven.bib`
+- `metodo_fi_driven.tex`
+
+como referencia formal del método científico estándar.
+
+---
+
+## 🔧 Próximos pasos
+
+1. Añadir PDFs oficiales del corpus TCDS.
+2. Incorporar JSON-LD final para crawlers.
+3. Subir datasets Σ-metrics y sincronogramas.
+4. Publicar el portal web TCDS vía GitHub Pages.
+
+---
+
+## 👤 Autor
+
+**Genaro Carrasco Ozuna**  
+Arquitecto Paradigmático — Proyecto TCDS / MSL  
+ORCID: https://orcid.org/0009-0005-6358-9910  
+Ko-fi: https://ko-fi.com/genarocarrasco
+
+---
+
+## 🤝 Licencia
+
+Este repositorio utiliza licencia dual:
+
+- **CC BY-SA 4.0** para teoría y narrativa.  
+- **TCDS Σ-FET License** para hardware, ingeniería y prototipos.
+
+---
